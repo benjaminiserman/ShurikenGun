@@ -1,0 +1,5 @@
+Guns Can Shoot Shurikens is a mod that makes it so guns can shoot shurikens. What exactly did you expect?
+
+Features:
+- Guns can use shurikens as ammo
+- ?
