@@ -1,4 +1,6 @@
 # ShurikenGun
+![Downloads](https://img.shields.io/github/downloads/winggar/ShurikenGun/total?style=for-the-badge)
+
 Mod for Terraria that makes guns shoot shurikens!
 
 I'm adding this readme file like, four years after I actually made this mod.
